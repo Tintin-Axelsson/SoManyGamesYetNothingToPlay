@@ -7,6 +7,7 @@ Written while sleep deprived.
 Request your [SteamAPI-Key](https://steamcommunity.com/dev/apikey) and use localhost *127.0.0.1* as your domain.
 You will also need your SteamID64 which is a numerical string embedded in your steam profile URL. 
 
-Clone the repo and run main, the rest is self explanatory.
+Clone the repo and run main.
+Depending on the age of this repo you may want to run *updateindex.py* to update the list of known games.
 
 
